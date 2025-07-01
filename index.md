@@ -140,8 +140,3 @@ page-level: homepage
 	</div>
 </article>
  -->
-
-</div>
-
-
-</section>

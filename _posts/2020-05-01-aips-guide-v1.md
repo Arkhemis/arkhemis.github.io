@@ -5,11 +5,11 @@ description:
 Date :  2020-05-01
 author: Alexandre VESSEREAU
 layout: post
-image: assets/images/posts/2020-05-01-aips-guide-v1/banner.jpg
-image-webp: assets/images/posts/2020-05-01-aips-guide-v1/banner.webp
-image-thumb: assets/images/posts/2020-05-01-aips-guide-v1/banner-thumb.jpg
-image-alt: AIPS is a software package to support the reduction and analysis of data taken with radio telescopes. 
-image-source: Karl G. Jansky Very Large Array (VLA) is a radio interferometric array located in central New Mexico, USA (Image courtesy - tripadvisor).
+image: assets/images/posts/gman.jpg
+image-webp: assets/images/posts/gman.jpg
+image-thumb: assets/images/posts/gman.jpg
+image-alt: G-Man holding his head. 
+image-source: Valve
 permalink: /projects/2020/05/aips-guide-v1/
 tags: mobile, Flutter, Dart, iOS, Android
 page-level: postpage
