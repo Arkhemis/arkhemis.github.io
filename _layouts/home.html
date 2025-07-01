@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
 <!--
 	Editorial by HTML5 UP
@@ -5,7 +6,18 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html lang="en">
-
+  <style>
+    #bgimg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.3);
+    pointer-events: none;
+}
+  </style>
 {% include head.html %}
 <body>
             <script>
@@ -38,9 +50,11 @@
         <!-- <div class="overlay-content overlay-img wrapper" 
         style="background-image: url(assets/images/banner-bg-img-1-thumb.jpg) center center no-repeat; background-size: cover;"
         data-echo-background="assets/images/banner-bg-img-1.jpg"> -->
-        <div class="overlay-content overlay-img wrapper" id="bgimg" 
-        style="background-image: url(assets/images/disco.webp	) center center no-repeat; background-size: cover;">
-
+        <div class="overlay-content overlay-img wrapper" id="bgimg"
+        style="background-image: url(assets/images/disco.webp) center center no-repeat; 
+               background-size: cover;
+               box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+               position: relative;">
 
               <div class="overlay-inside" >
                 <center>
@@ -48,7 +62,7 @@
                       <p class="banner-head">Alexandre VESSEREAU</p>
                           <hr class="banner-line">
                           <br>
-                      <p class="banner-body">Data Engineer<br>Economist.<br>Aspiring Indie Game Dev.</p>
+                      <p class="banner-body">Data Engineer<br>Behavioural Economist</p>
                               <ul class="banner-icons">
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.linkedin }}" class="icon fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="Linkedin"></a></p></li>
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.github }}" class="icon fa-github" target="_blank" rel="noopener noreferrer"  aria-label="Github"></a></p></li>
