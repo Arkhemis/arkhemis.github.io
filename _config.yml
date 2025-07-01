@@ -23,7 +23,7 @@ collections:
 myversion: 4.5.0
 
 author:
-    name: Soumyadeep Das
+    name: Alexandre VESSEREAU
     avatar : assets/images/profile_picture.png
     avatar-webp: assets/images/profile_picture.webp
     avatar-thumb: assets/images/profile_picture-thumb.jpg
@@ -36,9 +36,9 @@ author:
     #googleplus: 
     #googlescholar : https://scholar.google.com/citations?user=02NSBH4AAAAJ&hl=en
     #instagram: https://www.instagram.com/lordparthurnaax/
-    linkedin: https://www.linkedin.com/in/soumyadeep01
-    orcid: https://orcid.org/0000-0002-3493-6638
-    pinterest:
+    linkedin: https://www.linkedin.com/in/https://www.linkedin.com/in/alexandre-vessereau/
+#orcid: https://orcid.org/0000-0002-3493-6638
+    #pinterest:
     researchgate: https://www.researchgate.net/profile/Soumyadeep_Das9
     #slack:
     #stackoverflow : https://stackoverflow.com/users/4701760/lordparthurnaax
@@ -47,15 +47,15 @@ author:
 
 
 
-social:
-  name: Soumyadeep Das
-  links:
-    - https://twitter.com/lordparthurnaax
-    - https://www.instagram.com/lordparthurnaax/
-    - https://www.facebook.com/TheSoumyadeepDas
-    - https://github.com/lordparthurnaax
-    - https://gitlab.com/lordparthurnaax
-    - https://www.linkedin.com/in/soumyadeep01
+#social:
+#  name: Soumyadeep Das
+#  links:
+#    - https://twitter.com/lordparthurnaax
+#    - https://www.instagram.com/lordparthurnaax/
+#    - https://www.facebook.com/TheSoumyadeepDas
+#    - https://github.com/lordparthurnaax
+#    - https://gitlab.com/lordparthurnaax
+#    - https://www.linkedin.com/in/soumyadeep01
 
 plugins:
   - jekyll-seo-tag
