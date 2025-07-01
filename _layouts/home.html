@@ -52,9 +52,6 @@
                               <ul class="banner-icons">
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.linkedin }}" class="icon fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="Linkedin"></a></p></li>
                               <li><p class="banner-body banner-icon-p"><a href="{{ site.author.github }}" class="icon fa-github" target="_blank" rel="noopener noreferrer"  aria-label="Github"></a></p></li>
-                              <li><p class="banner-body banner-icon-p"><a href="{{ site.author.gitlab }}" class="icon fa-gitlab" target="_blank" rel="noopener noreferrer"  aria-label="Gitlab"></a></p></li>
-                              <li><p class="banner-body banner-icon-p"><a href="{{ site.author.googlescholar }}" class="icon-ai ai-google-scholar" target="_blank" rel="noopener noreferrer"  aria-label="Google Scholar"></a></p></li>
-                              <li><p class="banner-body banner-icon-p"><a href="{{ site.author.twitter }}" class="icon fa-twitter" target="_blank" rel="noopener noreferrer"  aria-label="Twitter"></a></p></li></ul>
 
                           <hr style="height: 1px;" class="banner-line">
                   </div>
@@ -73,7 +70,7 @@
                 {% include header.html %}
                 {% include banner.html %} 
                 <div style="margin-bottom: 30px; align-items: center;text-align: center;align-self: center;">
-                  <a style="color: #707070; text-align: center;  font-size: 14pt;" href="{{ site.url | absolute_url }}/somethingcool/" ><i>When the moon hits your eye like a big pizza pie... thats amore!</i></a>
+                  <a style="color: #707070; text-align: center;  font-size: 14pt;" href="{{ site.url | absolute_url }}/somethingcool/" ><i>The right man, in the wrong place, can make all the difference in the world.</i></a>
                 </div> 
                 
                 {{ content }}
@@ -152,40 +149,37 @@
             if (screenWidth > screenHeight) { // Landscape
                     console.log('Landscape')
                 if( screenWidth < 600 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w600.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('600');
                 } else if( screenWidth < 801 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w801.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('801');
                 } else if( screenWidth < 1080 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w1080.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('1080');
                 } else if( screenWidth < 1200 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w1200.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('1200');
                 } else if( screenWidth < 1400 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w1400.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('1400');
                 } else if( screenWidth < 1600 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w1600.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('1600');
                 } else{                    
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-bg-img-1.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('original');
                 }
             } else{ //portrait
                 console.log('portrait')
                 if( screenWidth < 480 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w480.jpg)';
-                    console.log('480');
-                } else if( screenWidth < 640 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w640.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('640');
                 } else if( screenWidth < 800 ){
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w800.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('800');
                 } else{                    
-                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/banner-w1002.jpg)';
+                    document.getElementById("bgimg").style.backgroundImage='url(assets/images/disco.webp)';
                     console.log('original');
                 }
             }
