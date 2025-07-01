@@ -95,17 +95,11 @@ page-level: homepage
 		</article>
 		<article>
 			<!-- <span class="icon fa-rocket"></span> -->
-	<!-- D'abord, ajoutez la police dans le <head> de votre page -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
-
-<!-- Puis utilisez l'icône comme ceci : -->
-<span style="padding-right:15px; display:inline-block;">
-    <span class="material-symbols-outlined" style="font-size: 80px;">sports_esports</span>
-    <div class="content">
-        <h3>Miscellaneous</h3>
-        <p>Way too much gaming.</p>
-    </div>
-</span>
+			<span style="padding-right:15px; display:inline-block;"><img alt="Miscellaneous" src="assets/images/ico-misc-thumb.png" data-src="assets/images/ico-misc.png"   class="lazyload" width="80" />
+			</span>
+			<div class="content">
+				<h3>Miscellaneous</h3>
+				<p>Way too much gaming.</p>
 			</div>
 		</article>
 	</div>
