@@ -13,100 +13,76 @@ redirect_from:
 <p  style="font-size: smaller;" ><a  href="{{ 'assets/docs/SoumyadeepDasCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
 <a name="top"></a>
 <h2 style="color:#d32f2f;">Education</h2> 
-<b>Indian Institute of Technology (BHU), Varanasi (India)</b> <br>
-Integrated Dual Degree (B.Tech. + M.Tech.) in Engineering Physics (Aug. 2014 - May. 2019)
- <ul>
-  <li>CGPA - 8.75/10. Departmental Rank 2 Holder.</li>
-  <li>TOEFL iBTS Score - 109/120 (obtained above 25 in each section).</li>
-  <li>Awarded with IIT Color, the second highest honor of IIT Varanasi for contributing to the overall growth of astronomy in and around the institute.</li>
-</ul> 
+<b>University Panthéon-Sorbonne, Paris School of Economics & Université de Paris Cité, Paris, France</b> <br>
+Master in Economics, Specialization in Applied Econometrics and Behavioral Economics (2019–2021) <br>
+<span style="font-style: italic;">With High Honours, entirely taught in English</span>
+<ul>
+  <li>Advanced statistics and machine learning techniques with Python</li>
+  <li>Applied Econometrics and Microeconometrics (with R)</li>
+  <li>Neuroeconomics, Microeconomics and Behavioral Finance</li>
+</ul>
+<b>University Toulouse-II Jean-Jaurès, Toulouse, France</b> <br>
+Bachelor's degree in Psychology, Specialization in Social Psychology (2016–2019) <br>
+<span style="font-style: italic;">With Honors</span>
+
+
+
+<b>Lycée François d'Estaing, Rodez, France</b> <br>
+Baccalaureate in Science, Specialization in Computer Science and Advanced English (2013–2016)
+
 <hr style="width:100%"> 
 <h2 style="color:#d32f2f;">Skills</h2> 
 
-<b>General Programming</b> - C, Python, Matlab, FORTRAN.<br>
-<b>Simulation and Science</b> - AIPS, CASA, SaoImage DS9, Astropy, Scipy, LaTeX.<br>
-<b>Amateur Astronomy</b> - Telescope calibration, Night-sky observations, Long exposure astrophotography.<br>
-<b>UI/UX and Development</b> - Android, Jekyll, SQL, HTML, CSS, JS, PHP.<br>
-<b>Other</b> - Adobe Photoshop, Lightroom, After Effects, Reddit bot-dev.
+<b>Development Environment</b> - Linux (Ubuntu, Pop!OS, Mint), Git, Godot Game Engine, LaTeX.<br>
+<b>Data Platforms</b> - Snowflake, Supabase, Dataiku, Make.<br>
+<b>ETL & Data Processing</b> - Python (Pandas, NumPy), SQL, R, Alteryx.<br>
+<b>Data Visualization</b> - Tableau, CRM Analytics.<br>
+<b>Programming Languages</b> - Python, SQL, R, Flutter/Dart, JavaScript, GDScript.<br>
+<b>Certifications</b> - SnowPro Core, Alteryx Partners, Alteryx Advanced, Alteryx Basics.<br>
+<b>Languages</b> - French (Native), English (Fluent), Spanish (Basic).<br>
 <hr style="width:100%"> 
 
-<h2 style="color:#d32f2f;">Courses and Academic Background</h2> 
-<b>Background</b> - Synthesis Imaging in Radio Interferometry, First Course in General Relativity. <br>
-<b>Coursework</b> - Classical and Quantum Mechanics, Relativistic Electrodynamics, Magnetohydrodynamics, Linear Algebra, Mathematical and
-Numerical Methods, Introduction to Astrophysics, Computational and Statistical Physics.<br>
-<b>Other Courses</b> - Probability and Statistics, Statistical simulations, Pattern Recognition, Programming and Data-structures.<br>
-<hr style="width:100%"> 
 
-<h2 style="color:#d32f2f;">Experience</h2> 
-<a href="{{ 'research' | absolute_url }}"  class="tag_btn"><span>Go to Research Interests</span></a><br><br>
-<b>Looking from All Angles at a Source Straddling the Radio-loud/Radio-quiet AGN Divide.</b><br>
-VSRP Summer Internship Under Dr. Preeti Kharb, National Center For Radio Astrophysics (NCRA-TIFR).<br>
-Pune, India. (May. 2018 - July. 2018)
+
+<h2 style="color:#d32f2f;">Professional Experience</h2> 
+
+<b>Technical Lead</b><br>
+NineSquares A.B., Permanent Contract.<br>
+Stockholm, Sweden. (Jan. 2025 - July. 2025)
 <ul>
-  <li>Study of NGC 2329, a peculiar AGN, at different radio bands, resolutions and sensitivities.</li>
-  <li>Extensive imaging of archival VLA, VLBA and eVLA data using AIPS, CASA and SAO DS9.</li>
+  <li>Designed and developed a complete mobile application (iOS/Android) using Flutter/Riverpod</li>
+  <li>Built and deployed a production-ready application within 6 months, incorporating user feedback loops and data validation mechanisms</li>
+  <li>Architected and implemented a PostgreSQL database solution via Supabase, designing optimized schemas and data models to support retrieval operations.</li>
+  <li>Integrated REST APIs with user authentication systems and implemented geospatial data processing pipelines</li>
 </ul>
 <br>
-<b>Importance of Polarization Calibration in Radio Interferometry.</b><br>
-Master’s Project Under Dr. Prasun Dutta, IIT (BHU), Varanasi.<br>
-Varanasi, India. (Jan. 2017 - May. 2019)
+<b>Consultant Data Engineer/Data Analyst</b><br>
+Actinvision, Permanent Contract.<br>
+Paris, France. (Jan. 2023 - Dec. 2024)
 <ul>
-  <li>Aims to provide valuable insight into the power spectrum estimation methods and to construct the reionization signal from the observed data.</li>
-  <li>Calibration and imaging using CASA. Used the software VISFITS for visibility simulation and modified it for the addition of antenna gains.</li>
+  <li>Designed and implemented role-based access controls, permissions, table structures, and views on Snowflake to optimize data accessibility and enable efficient analysis for financial and operational workflows.</li>
+  <li>Provided technical guidance and developed automated data preparation and integration workflows using Alteryx for one of Europe's largest banking groups</li>
+  <li>Led the migration of legacy SAS data flows to modern Alteryx workflows for the same banking institution</li>
+  <li>Built comprehensive dashboards and data visualization solutions for a leading construction equipment rental company using CRM Analytics, Tableau Desktop, and Make automation platform, delivering insights on sales performance and business KPIs.</li>
 </ul>
 <br>
-<b>Understanding Stellar Collapse and Formation of Strange Quark Stars.</b><br>
-Summer Internship Under Prof. Ming Chung Chu, Chinese University Of Hong Kong.<br>
-Hong Kong SAR. (Jun. 2017 - Aug. 2017)
+<b>Consultant Trainer in Data Analytics, Engineering & Scientist</b><br>
+Actinway (Actinvision Group), Permanent Contract.<br>
+Paris, France. (Oct. 2021 - Dec. 2022)
 <ul>
-  <li>Hydrodynamic simulations aimed at understanding stellar collapse and investigating the conditions that lead to formation of Strange Quark
-Stars, and their attributes and Gravitational Wave signatures.</li>
+  <li>Delivered data infrastructure and pipeline solutions for major clients in agribusiness and banking sectors, implementing ETL processes to support business-critical operations.</li>
+  <li>Led project management for creating comprehensive educational modules covering Data Visualization, Data Preparation, and Data Science workflows</li>
+  <li>Designed end-to-end ML workflows including data preprocessing, feature engineering, model construction, and evaluation frameworks</li>
+  <li>Delivered technical training on Data Visualization (Tableau) and Data Preparation/Science (Alteryx) to over 400 professionals across multiple business units</li>
 </ul>
 <br>
-<b>Star cluster detection and characterization using generalized Parzen density estimation.</b><br>
-Summer Internship Under Dr. Sarita Vig, Indian Institute Of Space Science And Technology (IIST) And Dr. Gorthi RKSS Manyam, IIT Tirupati.<br>
-Thiruvananthapuram, India. (May. 2016 - July. 2016)
+<b>Research assistant</b><br>
+Sorbonne Economic Center / French National Center for Scientific Research (CNRS)<br>
+Paris, France. (Oct. 2020 - June. 2021)
 <ul>
-  <li>Involved the application of generalized Parzen Windows for star cluster detection and identification.</li>
-  <li>Wrote a MATLAB pipeline for semi-automatic detection of star cluster in a given field of stars.</li>
-  <li>Presented a paper on the same at conference ”Star and Planet Formation : Insights and Intricacies” at IIST Thiruvananthapuram. Paper accepted for publication in MNRAS, Oct 2018.</li>
+  <li>Meta-analysis of the different effects of cognitive anchors on purchasing behaviors</li>
+  <li>Development of a PostgreSQL database of thousands of quantitative elements from hundreds of scientific articles</li>
+  <li>Data analysis on R</li>
 </ul>
 
-<hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Teaching Assistant Positions</h2> 
-<ul>
-<li>2019 - PHY 304 - Computational Physics (Theory and Lab)</li>
-<li>2018 - PHY 303 - Electromagnetic Waves</li>
-<li>2017 - PHY 304 - Solar, Space & Plasma Physics</li>
-<li>2017 - PHY 303 - Electromagnetic Waves</li>
-<li>2016 - PHY 102 - Physics II (Electromagnetism)</li>
-</ul>
-<hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Publications</h2> 
-<a href="{{ 'publications' | absolute_url }}" class="tag_btn"><span>Go to Publications</span></a><br>
-<ul>
-<li>2018&nbsp;-&nbsp;S. Nambiar, S. Das, S. Vig, G.R.K.S.S. Manyam, ”Star cluster detection and characterization using generalized Parzen density estimation”, MNRAS, accepted for publication, Oct. 17, 2018.</li>
-<br>
-<li>(Under Preparation for submission to URSI-RCRS)&nbsp;-&nbsp;J. Kumar, P. Dutta, S. Das, N. Roy, ”Instrumental Calibration for Observations of Redshifted 21-cm Signal from Neutral Hydrogen”.</li>
-<li>(Under Preparation for submission to MNRAS)&nbsp;-&nbsp;S. Das, P. Kharb, S. Nandi, R. Morganti, ”The Peculiar Wide-Angle-Tailed Galaxy NGC 2329 with an FRI-Seyfert Radio Outflow”.</li>
-</ul>
-<hr style="width:100%"> 
-
-<h2 style="color:#d32f2f;">Conferences</h2> 
-<ul>
-<li> 2019 &nbsp;- &nbsp;Presented a poster on ”Instrumental calibration requirements for observation of redshifted 21-cm signal from neutral hydrogen” at the Metre Wavelength Sky II Conference (MYSKY-II) held at National Centre for
-Radio Astrophysics, Pune, India</li>
-<li> 2016 &nbsp;-&nbsp; Presented a paper on ”Star cluster detection using Parzen Window” at the Star and Planet Formation Conference (SPF2016) held at Indian Institute of Space Science and Technology, Thiruvananthapuram, India</li>
-</ul>
-
-<hr style="width:100%"> 
-<h2 style="color:#d32f2f;">Achievements, Awards and Extra-curricular activities</h2> 
-<ul>
-<li>2017 &nbsp;-&nbsp;  Winner, Codefest Appathon - Android Development Competition, Dept. of CSE, IIT (BHU) Varanasi.</li>
-<li>2016 &nbsp;-&nbsp;  Founder, Corona - Bi-monthly collegiate astronomy magazine.</li>
-<li>2016 &nbsp;-&nbsp;  Secretary, Astronomy Club, IIT (BHU) Varanasi.</li>
-<li>2016 &nbsp;-&nbsp;  Winner, Hackathon - Android Development Contest, Technex, IIT (BHU) Varanasi.</li>
-<li>2015 &nbsp;-&nbsp;  Global Rank 81, Open Contest ”The Pythonist” hosted on hackerrank.com.</li>
-<li>2015 &nbsp;-&nbsp;  Winner, Eyes on the Sky - a messier hunting competition, LNMIIT, Jaipur, India.</li>
-</ul>
 <p  style="font-size: smaller;" ><a href="#top" class="button icon fa-angle-double-up">&nbsp;Back to Top</a></p>
