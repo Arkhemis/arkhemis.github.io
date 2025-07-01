@@ -7,7 +7,7 @@ page-level: homepage
 
 <section>
 	<header class="major">
-		<h2>Latest Blog Posts</h2>
+		<h2>Latest Blog Posts and Projects</h2>
 	</header>
 	<div class="posts">
 		<article>
@@ -25,7 +25,7 @@ page-level: homepage
 				<li><a href="{{ 'blogs' | absolute_url  }}" class="button special icon fa-pencil-square-o">Go to Blogs Page</a></li>
 			</ul>
 		</article>
-		<!--<article>
+		<article>
 			<a href="{{ site.projects.last.url | absolute_url  }}" class="image">
 				<picture>
                 <source data-srcset="{{ site.projects.last.image-webp | absolute_url }}" type="image/webp" >
@@ -69,7 +69,7 @@ page-level: homepage
 			</span>
 			<div class="content">
 				<h3>Miscellaneous</h3>
-				<p>Gaming, Neuropunk music.</p>
+				<p>Gaming and Neuropunk music.</p>
 			</div>
 		</article>
 	</div>
