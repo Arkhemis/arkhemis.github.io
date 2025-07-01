@@ -10,8 +10,8 @@ redirect_from:
   - portfolio/
 ---
 
-<p  style="font-size: smaller;" ><a  href="{{ 'assets/docs/SoumyadeepDasCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
-<a name="top"></a>
+<!-- <p  style="font-size: smaller;" ><a  href="{{ 'assets/docs/SoumyadeepDasCV.pdf' | absolute_url }}" class = "button special icon fa-file-pdf-o" target="_blank" rel="noopener noreferrer" >&nbsp;View in PDF Format</a></p>
+<a name="top"></a> -->
 <h2 style="color:#d32f2f;">Education</h2> 
 <b>University Panthéon-Sorbonne, Paris School of Economics & Université de Paris Cité, Paris, France</b> <br>
 Master in Economics, Specialization in Applied Econometrics and Behavioral Economics (2019–2021) <br>
