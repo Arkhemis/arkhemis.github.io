@@ -1,9 +1,9 @@
 ---
 title: 'Introduction to Active Galactic Nuclei'
 short-title : Intro to AGN
-description: Active galactic nuclei are the most energetic, luminous sources in the universe. Article by Soumyadeep Das on AGN, research areas, and exciting discoveries.
+description: Active galactic nuclei are the most energetic, luminous sources in the universe. Article by Alexandre VESSEREAU on AGN, research areas, and exciting discoveries.
 date: 2020-04-27
-author: Soumyadeep Das
+author: Alexandre VESSEREAU
 layout: post
 image: assets/images/posts/2020-04-27-intro-to-agn/banner.jpg
 image-webp: assets/images/posts/2020-04-27-intro-to-agn/banner.webp

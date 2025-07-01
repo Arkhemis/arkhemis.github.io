@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Memes from Outer Space
-description: Memes on struggles in research, bugs in codes, coffee spills, life of a astronomers, and cute baby cheetahs by Soumyadeep Das.
+description: Memes on struggles in research, bugs in codes, coffee spills, life of a astronomers, and cute baby cheetahs by Alexandre VESSEREAU.
 permalink: memes/
 redirect_from:
   - meme/

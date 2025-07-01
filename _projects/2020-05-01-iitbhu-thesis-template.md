@@ -1,9 +1,9 @@
 ---
 title : LaTex IDD/Masters/PHD Thesis Template for Indian Institute of Technology (BHU) Varanasi 
 short-title : IITBHU Latex Thesis
-description: Unofficial PhD and Masters Thesis Template in LaTeX for IIT-BHU Varanasi. Forked from CUED PhD Thesis template by Soumyadeep Das according to insitute guidelines.
+description: Unofficial PhD and Masters Thesis Template in LaTeX for IIT-BHU Varanasi. Forked from CUED PhD Thesis template by Alexandre VESSEREAU according to insitute guidelines.
 Date :  2020-05-01
-author: Soumyadeep Das
+author: Alexandre VESSEREAU
 layout: project-post
 image: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner.jpg
 image-webp: assets/images/posts/2020-05-01-iitbhu-thesis-template/banner.webp
@@ -15,7 +15,7 @@ page-level: repopage
 status: publ 
 ---
  
-An unofficial thesis template in LaTex, forked from [CUED PhD Thesis template](https://github.com/kks32/phd-thesis-template) by [Krishna Kumar](https://github.com/kks32). Adapted according to insitute guidelines by Soumyadeep Das, IDD, Dept. of Physics, Batch of 2014~2019.
+An unofficial thesis template in LaTex, forked from [CUED PhD Thesis template](https://github.com/kks32/phd-thesis-template) by [Krishna Kumar](https://github.com/kks32). Adapted according to insitute guidelines by Alexandre VESSEREAU, IDD, Dept. of Physics, Batch of 2014~2019.
 
 
 <!---

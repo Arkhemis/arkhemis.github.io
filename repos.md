@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Repositories
-description: Repository of academic works, astrophysics projects, linux scripts, latex templates, and digital design by Soumyadeep Das.
+description: Repository of academic works, astrophysics projects, linux scripts, latex templates, and digital design by Alexandre VESSEREAU.
 identifer: repopage
 permalink: repos/
 redirect_from:
